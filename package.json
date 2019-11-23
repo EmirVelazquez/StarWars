@@ -1,0 +1,23 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "star wars heroku test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmirVelazquez/StarWars.git"
+  },
+  "author": "ELV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmirVelazquez/StarWars/issues"
+  },
+  "homepage": "https://github.com/EmirVelazquez/StarWars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
